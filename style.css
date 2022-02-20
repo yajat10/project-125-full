@@ -1,0 +1,27 @@
+.t_color{
+    font-size: 15px;
+    color: black;
+}
+.btn{
+    width: 100%;
+    font-size: 30px;
+    box-shadow: 3px 3px 20px green;
+}
+#footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: pink;
+    color: red;
+    width: 100%;
+    font-size: 20px;
+    box-shadow: 3px 7px 20px lightgreen;
+}
+canvas{
+    background-color: lightgrey;
+    border: lightgreen 9px solid;
+    border-radius: 20px;
+    box-shadow: 3px 3px 20px lightblue;
+}
+body{
+    background-size: cover;
+}
